@@ -114,9 +114,7 @@ header h1 span {
     background-color: lch(16.86% 30.04 53.95);
 }
 
-.product-h2 {
-    color: #f8b400;
-}
+
 .product-slider {
     display: flex;
     justify-content: center;
